@@ -83,10 +83,8 @@ python src/gradio_app.py
 ## 🎬 **Model Demo** 
 
 ### 🎥 Demo  
-<video width="640" height="360" controls>
-  <source src="https://tzfsgbkqzapibuirltlp.supabase.co/storage/v1/object/public/Vidoes/demo1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/cc89141a-2dae-47fc-90ba-7f82cbc61a77
 
 
 
