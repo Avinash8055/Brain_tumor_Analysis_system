@@ -71,7 +71,7 @@ Start the model inference using:
 python src/model.py
 ```
 
-### 5. **Run the Gradio Interface**  
+### 6. **Run the Gradio Interface**  
 Start the Gradio app using:  
 ```bash
 python src/gradio_app.py
@@ -80,6 +80,15 @@ python src/gradio_app.py
 👉 **http://localhost:7860**  
 
 ---
+## 🎬 **Model Demo** 
+
+### 🎥 Demo  
+<video width="640" height="360" controls>
+  <source src="assets/demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
+
+
 
 
 ## 🧪 **Model Details**  
