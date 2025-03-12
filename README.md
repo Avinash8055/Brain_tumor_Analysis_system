@@ -84,9 +84,10 @@ python src/gradio_app.py
 
 ### 🎥 Demo  
 <video width="640" height="360" controls>
-  <source src="./assets/demo.webm" type="video/webm">
+  <source src="https://github.com/Avinash8055/Brain_tumor_Analysis_system/raw/refs/heads/main/assets/demo.webm" type="video/webm">
   Your browser does not support the video tag.
 </video>
+
 
 ---
 
