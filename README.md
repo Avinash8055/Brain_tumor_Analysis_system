@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### 3. **Check GPU Availability** *(Optional)*  
 Before running the model, test if GPU is available:  
 ```bash
-python gputest.py
+python src/gputest.py
 ```
 If a GPU is detected, the output will show:  
 ```
@@ -69,13 +69,13 @@ MODEL_PATH = "./models/brain_tumor_model.pth"
 Start the model inference using:
 
 ```sh
-python models.py
+python src/model.py
 ```
 
 ### 5. **Run the Gradio Interface**  
 Start the Gradio app using:  
 ```bash
-python gradio_app.py
+python src/gradio_app.py
 ```
 - The interface will open in your browser at:  
 👉 **http://localhost:7860**  
@@ -101,7 +101,7 @@ python gradio_app.py
 ➡️ Ensure GPU drivers and CUDA are properly installed  
 
 **Issue:** Model path not found  
-➡️ Double-check the model file path in `models.py`  
+➡️ Double-check the model file path in `model.py`  
 
 ---
 
@@ -126,6 +126,9 @@ This project is licensed under the **MIT License**.
 
 ## ⭐ **Show Some Love!**  
 If you like this project, give it a ⭐ on GitHub! 😎 
+
+
+---
 
 
 
