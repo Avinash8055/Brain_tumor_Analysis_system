@@ -80,9 +80,7 @@ python src/gradio_app.py
 👉 **http://localhost:7860**  
 
 ---
-## 🎬 **Model Demo** 
-
-### 🎥 Demo  
+## 🎬 **Model Demo**   
 
 https://github.com/user-attachments/assets/5c9d3274-549f-4868-ac82-cd0f670809b2
 
@@ -131,14 +129,6 @@ git push origin feature/your-feature
 
 ## 📜 **License**  
 This project is licensed under the **MIT License**.  
-
----
-
-## ⭐ **Show Some Love!**  
-If you like this project, give it a ⭐ on GitHub! 😎 
-
-
----
 
 
 
