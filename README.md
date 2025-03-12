@@ -21,7 +21,6 @@ brain_tumor_project/
 │   ├── gputest.py        # GPU availability test
 │   ├── gradio_app.py     # Gradio interface
 ├── requirements.txt      # Required libraries
-├── README.md
 ```
 
 ---
