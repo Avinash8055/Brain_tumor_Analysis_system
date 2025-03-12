@@ -84,6 +84,8 @@ python src/gradio_app.py
 
 ### 🎥 Demo  
 
+https://github.com/user-attachments/assets/5c9d3274-549f-4868-ac82-cd0f670809b2
+
 
 
 
